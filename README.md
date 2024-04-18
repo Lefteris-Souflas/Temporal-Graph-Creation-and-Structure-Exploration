@@ -1,8 +1,9 @@
 # From raw data to temporal graph structure exploration
 
+Assignment 2 for the Social Network Analysis Course of AUEB's MSc in Business Analytics.
+
 ## General Instructions
 Your answers should be as concise as possible.  
-**Submission instructions:** You should submit a compressed directory, containing your answers and code.  
 **Submitting answers:** Prepare a report with your answers on this homework in a single PDF file named `p2.pdf`.  
 **Submitting code:** Prepare the source file(s) with your code.
 
