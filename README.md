@@ -18,6 +18,7 @@ Your answers should be as concise as possible.
    - Diameter of the graph
    - Average in-degree
    - Average out-degree  
+   
    Provide observations on the fluctuations of these metrics during the five days.
 
 3. **Important nodes**  
@@ -25,6 +26,7 @@ Your answers should be as concise as possible.
    - In-degree
    - Out-degree
    - PageRank  
+   
    Provide comments on the variations of the top-10 lists for different days.
 
 4. **Communities**  
